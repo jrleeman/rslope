@@ -1,4 +1,3 @@
-rslope
-======
+#rslope
 
 Running average slops tools.
